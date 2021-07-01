@@ -1,6 +1,5 @@
 # learn-python
 for beginner like me
 
-## Source
-
+### Source Learning
 [https://santrikoding.com/](https://santrikoding.com/)
